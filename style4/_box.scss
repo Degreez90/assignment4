@@ -1,0 +1,30 @@
+.block1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: fixed; 
+    bottom:  0%;
+    left: 50%;
+    z-index: 2;
+    margin: auto;
+}
+
+.block2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 59%;
+    bottom: 23%;
+    z-index: 3;
+}
+
+.block3{
+    height: 150px;
+    width:150px;
+    background-color: yellow;
+    position: absolute;
+    left: 45%;
+    bottom: 18%;
+    z-index: 1;
+}
