@@ -2,9 +2,9 @@
     height: 200px;
     width: 200px;
     background-color: red;
-    position: fixed; 
+    position: absolute;
     bottom:  0%;
-    left: 50%;
+    left: 25%;
     z-index: 2;
     margin: auto;
 }
@@ -14,8 +14,8 @@
     width: 100px;
     background-color: blue;
     position: absolute;
-    left: 59%;
-    bottom: 23%;
+    left: 62%;
+    bottom: 166px;
     z-index: 3;
 }
 
@@ -24,7 +24,7 @@
     width:150px;
     background-color: yellow;
     position: absolute;
-    left: 45%;
-    bottom: 18%;
+    left: 5%;
+    bottom: 130px;
     z-index: 1;
 }
