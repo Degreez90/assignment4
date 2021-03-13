@@ -1,0 +1,27 @@
+.block1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    float: left;
+    z-index: 2;
+}
+
+.block2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    left: 220px;
+    z-index: 3;
+}
+
+.block3{
+    height: 150px;
+    width:150px;
+    background-color: yellow;
+    position: relative;
+    left: 220px;
+    margin-top: 20px;
+    z-index: 1;
+
+}
